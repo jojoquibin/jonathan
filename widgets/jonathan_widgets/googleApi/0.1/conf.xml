@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jonathan.widgets.GoogleApiWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>googleApi</label>
+  <description>Google Api </description>
+</widget>

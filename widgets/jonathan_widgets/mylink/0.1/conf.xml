@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jonathan.widgets.MylinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>mylink</label>
+  <description>my link description</description>
+</widget>

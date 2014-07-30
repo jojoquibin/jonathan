@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jonathan.widgets.MenuWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>menu</label>
+  <description>Menu</description>
+</widget>
